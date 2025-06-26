@@ -34,4 +34,4 @@
 
 ---
 
-This README focuses solely on the firmware and documentation updates made during this session. For full project details, hardware assembly, and app setup, refer to the main documentation.
+.
